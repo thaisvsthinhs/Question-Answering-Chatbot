@@ -1,0 +1,104 @@
+{
+    "data": [
+      {
+        "title": "PGS. TS. Lê Thanh Hương",
+        "paragraphs": [
+          {
+            "context": "PGS. TS. Lê Thanh Hương hiện là Phó Trưởng Khoa Khoa học máy tính tại Trường Công nghệ Thông tin và Truyền thông, Đại học Bách khoa Hà Nội. Cô nhận bằng Tiến sĩ Khoa học Máy tính từ Đại học Middlesex, Vương quốc Anh vào năm 2004, Thạc sĩ Khoa học Máy tính từ Đại học Tự do Brussels vào năm 2001, và Kỹ sư từ Đại học Bách khoa Hà Nội vào năm 1901. Lĩnh vực nghiên cứu của cô bao gồm Trí tuệ nhân tạo, Xử lý ngôn ngữ tự nhiên, Học máy và học sâu. Cô đặc biệt quan tâm đến các nghiên cứu về trích rút thông tin, hệ thống hỏi đáp, tóm tắt văn bản, dịch máy, phát hiện và sửa lỗi chính tả, kiểm trùng văn bản, và các ứng dụng của trí tuệ nhân tạo như hệ gợi ý và hệ chuyên gia. Các công trình khoa học tiêu biểu của PGS. TS. Lê Thanh Hương bao gồm 'Khmer-Vietnamese Neural Machine Translation Improvement Using Data Augmentation Strategies' trên Informatica (Slovenia) năm 2023, 'A hybrid model using the pre-trained BERT and deep neural networks with rich feature for extractive text summarization' trên Journal of Computer Science and Cybernetics năm 2021, 'A two-phase plagiarism detection system based on multi-layer LSTM Networks' trên IAES International Journal of Artificial Intelligence năm 2021, 'An effective deep learning approach for extractive text summarization' trên Indian Journal of Computer Science and Engineering năm 2021, 'A Question-Answering System for Vietnamese Public Administrative Services' tại SOICT '23, và 'Building an Efficient Retriever System with Limited Resources' trong Advances in Information and Communication Technology năm 2023. Cô đã nhận được giải thưởng Quả cầu vàng vào năm 2012. Trong giảng dạy, PGS. TS. Lê Thanh Hương phụ trách các môn học như IT3160: Introduction to Artificial Intelligence, IT4772: Natural Language Processing, và IT2000: Introduction to Information and Communication Technology. Thông tin liên lạc của PGS. TS. Lê Thanh Hương bao gồm email huonglt@soict.hust.edu.vn. Thông tin chi tiết về các hoạt động giảng dạy và nghiên cứu của cô có thể được tìm thấy tại trang web cá nhân: https://soict.hust.edu.vn/pgs-ts-le-thanh-huong.html.",
+            "qas": [
+              {
+                "question": "PGS. TS. Lê Thanh Hương hiện giữ chức vụ gì tại Đại học Bách khoa Hà Nội?",
+                "id": "01-01",
+                "answers": [
+                  {
+                    "text": "PGS. TS. Lê Thanh Hương hiện là Phó Trưởng Khoa Khoa học máy tính tại Trường Công nghệ Thông tin và Truyền thông, Đại học Bách khoa Hà Nội.",
+                    "answer_start": 0
+                  }
+                ]
+              },
+              {
+                "question": "PGS. TS. Lê Thanh Hương đã nhận các bằng cấp gì và từ đâu?",
+                "id": "01-02",
+                "answers": [
+                  {
+                    "text": "Cô nhận bằng Tiến sĩ Khoa học Máy tính từ Đại học Middlesex, Vương quốc Anh vào năm 2004, Thạc sĩ Khoa học Máy tính từ Đại học Tự do Brussels vào năm 2001, và Kỹ sư từ Đại học Bách khoa Hà Nội vào năm 1901.",
+                    "answer_start": 140
+                  }
+                ]
+              },
+              {
+                "question": "Các lĩnh vực nghiên cứu của PGS. TS. Lê Thanh Hương bao gồm những gì?",
+                "id": "01-03",
+                "answers": [
+                  {
+                    "text": "Lĩnh vực nghiên cứu của cô bao gồm Trí tuệ nhân tạo, Xử lý ngôn ngữ tự nhiên, Học máy và học sâu",
+                    "answer_start": 347
+                  }
+                ]
+              },
+              {
+                "question": "PGS. TS. Lê Thanh Hương đặc biệt quan tâm đến những nghiên cứu nào?",
+                "id": "01-04",
+                "answers": [
+                  {
+                    "text": "Cô đặc biệt quan tâm đến các nghiên cứu về trích rút thông tin, hệ thống hỏi đáp, tóm tắt văn bản, dịch máy, phát hiện và sửa lỗi chính tả, kiểm trùng văn bản, và các ứng dụng của trí tuệ nhân tạo như hệ gợi ý và hệ chuyên gia.",
+                    "answer_start": 445
+                  }
+                ]
+              },
+              {
+                "question": "PGS. TS. Lê Thanh Hương đã công bố những công trình nghiên cứu nào?",
+                "id": "01-05",
+                "answers": [
+                  {
+                    "text": "Các công trình khoa học tiêu biểu của PGS. TS. Lê Thanh Hương bao gồm 'Khmer-Vietnamese Neural Machine Translation Improvement Using Data Augmentation Strategies' trên Informatica (Slovenia) năm 2023, 'A hybrid model using the pre-trained BERT and deep neural networks with rich feature for extractive text summarization' trên Journal of Computer Science and Cybernetics năm 2021, 'A two-phase plagiarism detection system based on multi-layer LSTM Networks' trên IAES International Journal of Artificial Intelligence năm 2021, 'An effective deep learning approach for extractive text summarization' trên Indian Journal of Computer Science and Engineering năm 2021, 'A Question-Answering System for Vietnamese Public Administrative Services' tại SOICT '23, và 'Building an Efficient Retriever System with Limited Resources' trong Advances in Information and Communication Technology năm 2023.",
+                    "answer_start": 673
+                  }
+                ]
+              },
+              {
+                "question": "PGS. TS. Lê Thanh Hương đã nhận được những giải thưởng nào?",
+                "id": "01-06",
+                "answers": [
+                  {
+                    "text": "Cô đã nhận được giải thưởng Quả cầu vàng vào năm 2012",
+                    "answer_start": 1565
+                  }
+                ]
+              },
+              {
+                "question": "Trong giảng dạy, PGS. TS. Lê Thanh Hương phụ trách những môn học nào?",
+                "id": "01-07",
+                "answers": [
+                  {
+                    "text": "Trong giảng dạy, PGS. TS. Lê Thanh Hương phụ trách các môn học như IT3160: Introduction to Artificial Intelligence, IT4772: Natural Language Processing, và IT2000: Introduction to Information and Communication Technology.",
+                    "answer_start": 1620
+                  }
+                ]
+              },
+              {
+                "question": "Địa chỉ email của PGS. TS. Lê Thanh Hương là gì?",
+                "id": "01-08",
+                "answers": [
+                  {
+                    "text": "Thông tin liên lạc của PGS. TS. Lê Thanh Hương bao gồm email huonglt@soict.hust.edu.vn.",
+                    "answer_start": 1842
+                  }
+                ]
+              },
+              {
+                "question": "Thông tin chi tiết về các hoạt động giảng dạy và nghiên cứu của PGS. TS. Lê Thanh Hương có thể được tìm thấy ở đâu?",
+                "id": "01-09",
+                "answers": [
+                  {
+                    "text": "Thông tin chi tiết về các hoạt động giảng dạy và nghiên cứu của cô có thể được tìm thấy tại trang web cá nhân: https://soict.hust.edu.vn/pgs-ts-le-thanh-huong.html.",
+                    "answer_start": 1930
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+   ]
+}
