@@ -1,5 +1,9 @@
 # Question Answering Chatbot
 
+## Demo:
+![Sơ đồ hệ thống](app.png)
+
+
 ## Overview
 This project implements a question-answering chatbot using the BARTPho model, fine-tuned specifically on Vietnamese language data. The chatbot is designed for answering questions based on provided textual contexts about teachers in the School of Information and Technology (HUST), following the format of the SQuAD dataset.
 
